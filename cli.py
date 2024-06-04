@@ -4,7 +4,7 @@ import time
 now = time.strftime('%d-%b-%Y and the time is %H:%M:%S')
 print(f"Today is {now}")
 while True:
-    user_action =input('type add,show,edit,complete and exit: ').lower()
+    user_action = input('type add,show,edit,complete and exit: ').lower()
     user_action = user_action.strip()
 
     if user_action.startswith('add'):
