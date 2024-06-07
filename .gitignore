@@ -3,12 +3,14 @@
 a.txt
 b.txt
 c.txt
-bonus1.py
-bonus2- password.py
-bonus 3.py
-bonus 3 - questions.py
-exercise66.py
-exercise67.py
-exercise68.py
-questions.json
+bonus/bonus1.py
+bonus/bonus2- password.py
+bonus/bonus 3.py
+bonus/bonus 3 - questions.py
+exercises/exercise66.py
+exercises/exercise67.py
+exercises/exercise68.py
+bonus/questions.json
 journal
+bonus/bonus- gui.py
+exercises/ex 17.py
